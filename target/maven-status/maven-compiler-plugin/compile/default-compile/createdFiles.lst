@@ -1,0 +1,9 @@
+com\example\bfhl\config\AppConfig.class
+com\example\bfhl\sql\SolutionRepository.class
+com\example\bfhl\webhook\GenerateWebhookResponse.class
+com\example\bfhl\sql\SqlSolver.class
+com\example\bfhl\sql\SolutionEntity.class
+com\example\bfhl\webhook\WebhookClient.class
+com\example\bfhl\BfhlApplication.class
+com\example\bfhl\startup\StartupRunner.class
+com\example\bfhl\sql\SolutionService.class
